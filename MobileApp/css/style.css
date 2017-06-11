@@ -29,6 +29,10 @@
   font-style: normal;
 }
 
+.my-try-commit {
+	this: this;
+}
+
 * {
 	margin: 0;
 	padding: 0;
